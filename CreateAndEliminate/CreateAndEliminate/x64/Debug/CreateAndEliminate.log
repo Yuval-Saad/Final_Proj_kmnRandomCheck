@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CreateAndEliminate.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CreateAndEliminate16112.c
+C:\Yoni\לימודים\סמסטר ז\פרויקט\Final_Proj_kmnRandomCheck\CreateAndEliminate\CreateAndEliminate\CreateAndEliminate16112.c(35,10): warning C4133: 'function': incompatible types - from 'int [2048]' to 'char *'
+  CreateAndEliminate.vcxproj -> C:\Yoni\לימודים\סמסטר ז\פרויקט\Final_Proj_kmnRandomCheck\CreateAndEliminate\x64\Debug\CreateAndEliminate16112.exe

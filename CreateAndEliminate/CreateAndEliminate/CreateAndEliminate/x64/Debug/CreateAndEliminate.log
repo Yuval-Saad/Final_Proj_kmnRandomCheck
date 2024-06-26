@@ -1,3 +1,0 @@
-﻿  CreateAndEliminate.c
-C:\Yoni\לימודים\סמסטר ז\פרויקט\CreateAndEliminate\CreateAndEliminate\CreateAndEliminate\CreateAndEliminate.c(35,10): warning C4133: 'function': incompatible types - from 'int [8192]' to 'char *'
-  CreateAndEliminate.vcxproj -> C:\Yoni\לימודים\סמסטר ז\פרויקט\CreateAndEliminate\CreateAndEliminate\x64\Debug\CreateAndEliminate.exe

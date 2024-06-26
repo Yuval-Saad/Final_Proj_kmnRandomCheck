@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Yoni\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D6\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Final_Proj_kmnRandomCheck\\DecodeAlgorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8628920-4B98-4315-92FB-8EE21AB98F0C}|DecodeAlgorithm\\DecodeAlgorithm.vcxproj|C:\\Yoni\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D6\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Final_Proj_kmnRandomCheck\\DecodeAlgorithm\\DecodeAlgorithm\\Decode256183.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8628920-4B98-4315-92FB-8EE21AB98F0C}|DecodeAlgorithm\\DecodeAlgorithm.vcxproj|solutionrelative:DecodeAlgorithm\\Decode256183.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Decode256183.c",
+              "DocumentMoniker": "C:\\Yoni\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D6\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Final_Proj_kmnRandomCheck\\DecodeAlgorithm\\DecodeAlgorithm\\Decode256183.c",
+              "RelativeDocumentMoniker": "DecodeAlgorithm\\Decode256183.c",
+              "ToolTip": "C:\\Yoni\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D6\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Final_Proj_kmnRandomCheck\\DecodeAlgorithm\\DecodeAlgorithm\\Decode256183.c",
+              "RelativeToolTip": "DecodeAlgorithm\\Decode256183.c",
+              "ViewState": "AQIAAHUAAAAAAAAAAABQvX4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-22T08:48:23.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
