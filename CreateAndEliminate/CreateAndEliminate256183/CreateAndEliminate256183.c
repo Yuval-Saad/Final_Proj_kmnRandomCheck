@@ -16,9 +16,9 @@ void deepCopy(char* toWord, int indexTo, char* fromWord, int indexFrom, int howM
 	}
 }
 
-void SetKMap(char* map) {
+void SetKMap(int* map) {
 	for (int i = 0; i < ALL_POSSIBLE_KS; i++) {
-		map[i] = -k_SIZE;
+		map[i] = -m_SIZE;
 	}
 }
 
@@ -34,17 +34,25 @@ int GetFirstKValue(char* w) {
 
 int findPrimalKIndenticalWindow(int* i, int* j, char* w , FILE *logFile) {
 	int* k_map = (int*)malloc(ALL_POSSIBLE_KS * sizeof(int));
-	SetKMap(k_map);
+	if (!k_map) {
+		perror("Failed to allocate memory for k_map");
+		exit(EXIT_FAILURE);
+	}
+	SetKMap((char*)k_map);
 	int lastKValue = GetFirstKValue(w);
 	k_map[lastKValue] = 0;
 	for (int index = 1; index <= n_SIZE - k_SIZE; index++) {
+		//lastKValue = lastKValue * 2;
 		lastKValue = (lastKValue << 1);
+		//lastKValue = lastKValue % ALL_POSSIBLE_KS;
 		lastKValue &= (ALL_POSSIBLE_KS - 1);
-		if (w[index + k_SIZE - 1] == '1')
+		if (w[index + k_SIZE - 1] == '1') {
 			lastKValue |= 1;
+		}
 		if ((index - k_map[lastKValue]) <= m_SIZE - k_SIZE) {
 			*i = k_map[lastKValue];
 			*j = index;
+			free(k_map);
 			return lastKValue;
 		}
 		else {
@@ -67,12 +75,7 @@ void InsertDistCode(char* w, int x,int numOfBits){
 		return;
 	}
 	if (numOfBits == 1) {
-		if (x == 0) {
-			w[0] = '0';
-		}
-		else if (x == 1) {
-			w[0] = '1';
-		}
+		w[0] = (x == 0) ? '0' : '1';
 	}
 	else if (numOfBits == 2) {
 		if (x == 0) {
@@ -142,9 +145,9 @@ void EliminationAlgorithm(char* inputWord, char* outputWord, FILE* logFile) {
 	int forComfort = 0;
 	deepCopy(w, 0, inputWord, 0, n_SIZE);
 	fprintf(logFile, "All the (i , j) couples found by order followd by the value of the window:\n");
-	while (value = findPrimalKIndenticalWindow(&i, &j, w , logFile)) {
-		char neww[n_SIZE];
-		char gfunc[k_SIZE - 1];
+	while ((value = findPrimalKIndenticalWindow(&i, &j, w , logFile)) !=0) {
+		char neww[n_SIZE] = { 0 };
+		char gfunc[k_SIZE - 1] = { 0 } ;
 		fprintf(logFile, "(%d , %d) : 0x%X    ", i, j, value); // toCOmment
 		BuildGfunc(gfunc, j - i); // toCOmment
 		fprintf(logFile, "The Gfunc we coded: "); // toCOmment
@@ -187,8 +190,8 @@ int main() {
 	FILE* inputWordFile;
 	FILE* outputWordFile;
 	FILE* logFile;
-	char inputWord[n_SIZE];
-	char outputWord[n_SIZE];
+	char inputWord[n_SIZE] = { 0 };
+	char outputWord[n_SIZE] = { 0 };
 	if (fopen_s(&inputWordFile, "InputWord.txt", "w+") != 0) {
 		perror("Error opening InputWord.txt");
 		return 1;

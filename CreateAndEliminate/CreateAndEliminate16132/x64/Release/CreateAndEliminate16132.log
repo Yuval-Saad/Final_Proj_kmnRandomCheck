@@ -1,0 +1,7 @@
+﻿  CreateAndEliminate16132.c
+C:\Yoni\לימודים\סמסטר ז\פרויקט\Final_Proj_kmnRandomCheck\CreateAndEliminate\CreateAndEliminate\CreateAndEliminate16132.c(35,10): warning C4133: 'function': incompatible types - from 'int [8192]' to 'char *'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CreateAndEliminate16132.vcxproj -> C:\Yoni\לימודים\סמסטר ז\פרויקט\Final_Proj_kmnRandomCheck\CreateAndEliminate\x64\Release\CreateAndEliminate16132.exe

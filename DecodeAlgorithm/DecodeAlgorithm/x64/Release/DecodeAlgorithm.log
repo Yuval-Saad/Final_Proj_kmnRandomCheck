@@ -1,0 +1,7 @@
+﻿  Decode256183.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Yoni\לימודים\סמסטר ז\פרויקט\Final_Proj_kmnRandomCheck\DecodeAlgorithm\DecodeAlgorithm\Decode256183.c(56): warning C4715: 'DecodeIndex': not all control paths return a value
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DecodeAlgorithm.vcxproj -> C:\Yoni\לימודים\סמסטר ז\פרויקט\Final_Proj_kmnRandomCheck\DecodeAlgorithm\x64\Release\DecodeAlgorithm.exe

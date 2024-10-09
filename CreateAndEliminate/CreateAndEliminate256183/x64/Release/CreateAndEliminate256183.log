@@ -1,0 +1,8 @@
+﻿  CreateAndEliminate256183.c
+C:\Yoni\לימודים\סמסטר ז\פרויקט\Final_Proj_kmnRandomCheck\CreateAndEliminate\CreateAndEliminate256183\CreateAndEliminate256183.c(41,17): warning C4133: 'function': incompatible types - from 'char *' to 'int *'
+  Generating code
+  7 of 15 functions (46.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CreateAndEliminate256183.vcxproj -> C:\Yoni\לימודים\סמסטר ז\פרויקט\Final_Proj_kmnRandomCheck\CreateAndEliminate\x64\Release\CreateAndEliminate256183.exe

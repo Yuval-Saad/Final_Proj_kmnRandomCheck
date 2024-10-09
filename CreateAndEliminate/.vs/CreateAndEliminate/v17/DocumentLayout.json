@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Yoni\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D6\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Final_Proj_kmnRandomCheck\\CreateAndEliminate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABBB838A-923E-4A06-A65C-4BBDBB45718D}|CreateAndEliminate256183\\CreateAndEliminate256183.vcxproj|C:\\Yoni\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D6\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Final_Proj_kmnRandomCheck\\CreateAndEliminate\\CreateAndEliminate256183\\CodeMap.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{ABBB838A-923E-4A06-A65C-4BBDBB45718D}|CreateAndEliminate256183\\CreateAndEliminate256183.vcxproj|solutionrelative:CreateAndEliminate256183\\CodeMap.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ABBB838A-923E-4A06-A65C-4BBDBB45718D}|CreateAndEliminate256183\\CreateAndEliminate256183.vcxproj|C:\\Yoni\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D6\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Final_Proj_kmnRandomCheck\\CreateAndEliminate\\CreateAndEliminate256183\\CreateAndEliminate256183.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ABBB838A-923E-4A06-A65C-4BBDBB45718D}|CreateAndEliminate256183\\CreateAndEliminate256183.vcxproj|solutionrelative:CreateAndEliminate256183\\CreateAndEliminate256183.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBB838A-923E-4A06-A65C-4BBDBB45718D}|CreateAndEliminate256183\\CreateAndEliminate256183.vcxproj|C:\\Yoni\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D6\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Final_Proj_kmnRandomCheck\\CreateAndEliminate\\CreateAndEliminate256183\\CodeMap.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ABBB838A-923E-4A06-A65C-4BBDBB45718D}|CreateAndEliminate256183\\CreateAndEliminate256183.vcxproj|solutionrelative:CreateAndEliminate256183\\CodeMap.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{319C63DA-107D-4F56-8BF5-DE9CE95B8160}|CreateAndEliminate16132\\CreateAndEliminate16132.vcxproj|C:\\Yoni\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D6\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Final_Proj_kmnRandomCheck\\CreateAndEliminate\\CreateAndEliminate\\CreateAndEliminate16132.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CodeMap.txt",
               "DocumentMoniker": "C:\\Yoni\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D6\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Final_Proj_kmnRandomCheck\\CreateAndEliminate\\CreateAndEliminate256183\\CodeMap.txt",
               "RelativeDocumentMoniker": "CreateAndEliminate256183\\CodeMap.txt",
@@ -47,13 +47,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CreateAndEliminate256183.c",
               "DocumentMoniker": "C:\\Yoni\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D6\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Final_Proj_kmnRandomCheck\\CreateAndEliminate\\CreateAndEliminate256183\\CreateAndEliminate256183.c",
               "RelativeDocumentMoniker": "CreateAndEliminate256183\\CreateAndEliminate256183.c",
               "ToolTip": "C:\\Yoni\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E1\u05DE\u05E1\u05D8\u05E8 \u05D6\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\Final_Proj_kmnRandomCheck\\CreateAndEliminate\\CreateAndEliminate256183\\CreateAndEliminate256183.c",
               "RelativeToolTip": "CreateAndEliminate256183\\CreateAndEliminate256183.c",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAAAHIAAAAsAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC8AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-06-01T10:24:22.964Z",
               "EditorCaption": ""
@@ -68,8 +68,7 @@
               "RelativeToolTip": "CreateAndEliminate16123\\CreateAndEliminate16123.c",
               "ViewState": "AQIAAHkAAAAAAAAAAAAAAIYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-30T14:53:44.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T14:53:44.768Z"
             },
             {
               "$type": "Document",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "CreateAndEliminate\\CreateAndEliminate16112.c",
               "ViewState": "AQIAAJMAAAAAAAAAAAAAAJoAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-30T14:46:09.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T14:46:09.232Z"
             },
             {
               "$type": "Document",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "CreateAndEliminate\\CreateAndEliminate16132.c",
               "ViewState": "AQIAAGsAAAAAAAAAAAAiwH8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-30T14:44:20.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T14:44:20.616Z"
             }
           ]
         }
