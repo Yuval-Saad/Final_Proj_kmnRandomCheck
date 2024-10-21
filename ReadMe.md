@@ -6,7 +6,7 @@
 - *Project Number*: P-2024-002
 - *Department*: Electrical and Computer Engineering, Ben-Gurion University
 - *Supervisors*: Ohad Elishco
-- *Students*: Yehonatan Arama, Yuval Yacov Said
+- *Students*: Yehonatan Arama, Yuval Saad
 
 ## Project Overview
 
